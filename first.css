@@ -1,0 +1,24 @@
+body {
+  background-color: white;
+}
+.apple {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 51px;
+}
+.menu {
+  color: white;
+  text-align: center;
+}
+.ma {
+  color: white;
+  margin-right: 30px;
+  text-decoration: none;
+}
+.sagwa {
+  width: 50px;
+}
